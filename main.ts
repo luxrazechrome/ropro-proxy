@@ -5,8 +5,8 @@ import { sleep } from "https://deno.land/x/sleep@v1.2.1/mod.ts";
 // Vars
 const DataFetchURL = "https://raw.githubusercontent.com/Stefanuk12/RoProPatcher/proxy/data.json"
 let Data = {
-    "PHPSESSID": "",
-    "tier": "pro_tier"
+    "PHPSESSID": "22d121840a692db4e46815aed749ead6",
+    "tier": "rex_tier"
 }
 
 // See whenever we get an inbound request
